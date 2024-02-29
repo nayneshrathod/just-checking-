@@ -3,14 +3,14 @@
 ## Tech Stack
 nayneshrathod/just-checking- is built on the following main stack:
 
-- [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
 - [Angular](https://angular.io) – Javascript MVC Frameworks
-- [Ionicons](http://ionicons.com/) – UI Components
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
+- [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Ionicons](http://ionicons.com/) – UI Components
 
 Full tech stack [here](/techstack.md)
 
@@ -20,14 +20,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 nayneshrathod/just-checking- is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg' alt='Angular'/> [Angular](https://angular.io) – Javascript MVC Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/5368/icon.png' alt='Ionicons'/> [Ionicons](http://ionicons.com/) – UI Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/5368/icon.png' alt='Ionicons'/> [Ionicons](http://ionicons.com/) – UI Components
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nayneshrathod/just-checking-](https://github.com/nayneshrathod/just-checking-)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|24<br/>Tools used|01/05/24 <br/>Report generated|
+|24<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -163,7 +163,7 @@ Full tech stack [here](/techstack.md)
 |[@angular/platform-browser-dynamic](https://www.npmjs.com/@angular/platform-browser-dynamic)|v5.0.3|03/14/18|Hamza HAMIDI |MIT|N/A|
 |[@ionic-native/core](https://www.npmjs.com/@ionic-native/core)|v4.4.0|04/04/18|Hamza HAMIDI |MIT|N/A|
 |[@ionic/storage](https://www.npmjs.com/@ionic/storage)|v2.1.3|04/04/18|Hamza HAMIDI |MIT|N/A|
-|[hoek](https://www.npmjs.com/hoek)|v2.16.3|10/09/18|Hamza HAMIDI |BSD-3-Clause|[CVE-2018-3728](https://github.com/advisories/GHSA-jp4x-w63m-7wgm) (High)|
+|[hoek](https://www.npmjs.com/hoek)|v2.16.3|10/09/18|Hamza HAMIDI |BSD-3-Clause|[CVE-2020-36604](https://github.com/advisories/GHSA-c429-5p7v-vgjp) (High)<br/>[CVE-2018-3728](https://github.com/advisories/GHSA-jp4x-w63m-7wgm) (High)|
 |[ionic-angular](https://www.npmjs.com/ionic-angular)|v3.9.2|04/04/18|Hamza HAMIDI |MIT|N/A|
 |[qrcode](https://www.npmjs.com/qrcode)|v1.2.0|03/17/18|Hamza HAMIDI |MIT|N/A|
 |[sw-toolbox](https://www.npmjs.com/sw-toolbox)|v3.6.0|01/17/18|Hamza HAMIDI |Apache-2.0|N/A|
