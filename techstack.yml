@@ -2,7 +2,7 @@ repo_name: nayneshrathod/just-checking-
 report_id: 89f12fedb578e329d8606e4679d868ea
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:11:09+00:00'
+timestamp: '2024-02-29T18:17:49+00:00'
 requested_by: hamzahamidi
 provider: github
 branch: master
@@ -271,6 +271,12 @@ tools:
   last_updated_by: Hamza HAMIDI
   last_updated_on: 2018-10-09 21:21:33.000000000 Z
   vulnerabilities:
+  - name: hoek subject to prototype pollution via the clone function.
+    cve_id: CVE-2020-36604
+    cve_url: https://github.com/advisories/GHSA-c429-5p7v-vgjp
+    detected_date: Feb 8
+    severity: high
+    first_patched: 
   - name: Prototype Pollution in hoek
     cve_id: CVE-2018-3728
     cve_url: https://github.com/advisories/GHSA-jp4x-w63m-7wgm
